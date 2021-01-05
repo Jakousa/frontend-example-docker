@@ -20,7 +20,7 @@
     "@babel/polyfill": "^7.8.7",
     "@babel/preset-env": "^7.9.5",
     "@babel/preset-react": "^7.9.4",
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "babel-loader": "^8.1.0",
     "css-loader": "^1.0.1",
     "file-loader": "^2.0.0",
